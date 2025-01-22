@@ -25,7 +25,7 @@
           Naša web platforma pruža personalizirane trening programe, edukativne
           resurse i podršku od strane certificiranih trenera. Vjerujemo da je
           zdravlje osnovni temelj sretnog života i tu smo da vas podržimo na
-          vašem putu.
+          vašem putu..
         </div>
       </q-card-section>
 
